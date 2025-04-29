@@ -1,0 +1,10 @@
+com\wit\paks\hangmangame\server\game\PlayerThread.class
+com\wit\paks\hangmangame\server\ServerApp.class
+com\wit\paks\hangmangame\server\game\GuesserPlayerThread.class
+com\wit\paks\hangmangame\server\game\ObserverPlayerThread.class
+com\wit\paks\hangmangame\server\PlayerNameSettingTask.class
+com\wit\paks\hangmangame\server\Player.class
+com\wit\paks\hangmangame\server\game\MainGameThread.class
+com\wit\paks\hangmangame\server\PlayersQueueThread.class
+com\wit\paks\hangmangame\server\game\PlayerEndGameThread.class
+com\wit\paks\hangmangame\server\game\PlayerPhraseGettingTask.class
